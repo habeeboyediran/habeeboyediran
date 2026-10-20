@@ -2279,7 +2279,7 @@
       <rect x="72" y="492" rx="14" ry="14" width="148" height="72"
             fill="#ffffff" stroke="#d0d7de"/>
       <text x="86" y="516" class="tile-label" fill="#57606a">Contributions (YTD)</text>
-      <text x="86" y="544" class="tile-value" fill="#24292f">7</text>
+      <text x="86" y="544" class="tile-value" fill="#24292f">8</text>
     </g>
     
     <g class="fade" style="--delay:0.47s;">
